@@ -9,7 +9,7 @@ cjhbtn/periscopr-api
 
 **Website**: https://github.com/cjhbtn/periscopr-api
 
-**Git Repository**: https://github.com/cjhbtn/periscopr-api.git
+**Git Repository**: https://github.com/exileed/periscopr-api.git
 
 **Documenation**: https://github.com/cjhbtn/periscopr-api/wiki/Home
 
@@ -103,13 +103,18 @@ Which should output data like so:
 
 ## Issues ##
 
-Please raise any issues via [Github](https://github.com/cjhbtn/periscopr-api/issues)
+Please raise any issues via [Github](https://github.com/exileed/periscopr-api/issues)
 
 Include as much information as you can about what the issue is, how to reproduce it, and any additional modifications or 3rd-party libraries that you might be using.
 
 **PLEASE DO NOT ASK FOR HELP WITH OBTAINING OAUTH TOKENS ON THE ISSUES PAGE**
 
 ----------
+
+## TODO ##
+
+1. All methods 
+2. Tests
 
 ## References ##
 
