@@ -1,9 +1,9 @@
 {
-  "name": "cjhbtn/periscopr-api",
+  "name": "mailoman/periscopr-api",
   "type": "library",
   "description": "A library for interacting with the Periscope (https://periscope.tv) API",
   "keywords": ["periscope", "api"],
-  "homepage": "https://github.com/cjhbtn/periscopr-api",
+  "homepage": "https://github.com/mailoman/periscopr-api",
   "license": "Apache 2.0",
   "authors": [
     {
